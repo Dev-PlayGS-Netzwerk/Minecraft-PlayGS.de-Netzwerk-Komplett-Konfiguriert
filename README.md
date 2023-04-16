@@ -1,27 +1,27 @@
 # -Minecraft-PlayGS.de-Netzwerk-Komplett-Konfiguriert
  Minecraft PlayGS.de Netzwerk Komplett Konfiguriert
 
-## Verzeichnis
-# Source Codes
+# Verzeichnis
+## Source Codes
 
-# Minecraft
-- CloudNetv3
+### Minecraft
+- CloudNetv3<br>
   ↳
 
-# Bots
-- TeamSpeak Bots
-  ↳ Verifier
-  ↳ Support
-  ↳ Musik
+### Bots
+- TeamSpeak Bots<br>
+  ↳ Verifier<br>
+  ↳ Support<br>
+  ↳ Musik<br>
 
-- Discord Bots
-  ↳ Verifier
-  ↳ Manager
-  ↳ Status
-  ↳ Radio
-  ↳ Musik
+- Discord Bots<br>
+  ↳ Verifier<br>
+  ↳ Manager<br>
+  ↳ Status<br>
+  ↳ Radio<br>
+  ↳ Musik<br>
 
-# WebSystem
+### WebSystem
 - Homepage
 - Onlineshop
 - Forum
