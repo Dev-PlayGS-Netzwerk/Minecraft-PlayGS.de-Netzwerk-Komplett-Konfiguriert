@@ -3,25 +3,48 @@
 
 # Verzeichnis
 ## Source Codes
+### Bots
+```
+- Discord<br>
+  ↳ Manager<br><br>
+  
+  ↳ Musik<br>
+    ↳ commands<br>
+    ↳ config<br>
+    ↳ events<br>
+    ↳ player<br><br>
+    
+  ↳ Radio<br>
+    ↳ Radio<br>
+      ↳ botconfig<br>
+      ↳ db<br>
+    ↳ Radio Bot DC v1.0.0.rar<br><br>
+    
+  ↳ Status<br>
+    ↳ commands<br>
+    ↳ events<br>
+    ↳ slashes<br>
+    ↳ templates<br>
+  
+  ↳ Support<br>
+  
+  ↳ Verifier<br>
+  
+  
+- TeamSpeak-3-5<br>
+  ↳ Verifier<br>
+```
 
-### Minecraft
+### Netzwerk
+```
 - CloudNetv3<br>
   ↳
-
-### Bots
-- TeamSpeak Bots<br>
-  ↳ Verifier<br>
-  ↳ Support<br>
-  ↳ Musik<br>
-
-- Discord Bots<br>
-  ↳ Verifier<br>
-  ↳ Manager<br>
-  ↳ Status<br>
-  ↳ Radio<br>
-  ↳ Musik<br>
+```
 
 ### WebSystem
-- Homepage
-- Onlineshop
-- Forum
+```
+  ↳ css<br>
+  ↳ img<br>
+  ↳ js<br>
+  ↳ pages<br>
+```
